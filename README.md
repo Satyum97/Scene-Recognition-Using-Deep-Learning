@@ -1,5 +1,10 @@
 # Scene-Recognition-Using-Deep-Learning
 
+
+Project Description:
+In this project, we are implementing a Scene Recognition on a dataset from Kaggle. This dataset contains a wide range of images classified in 6 groups viz. Buildings, Street, Glacier, Mountains, Sea and Forests. The main aim of this project is to be able to correctly classify which image belongs to the six of the mentioned categories. We obtained a training accuracy of around 40% and testing accuracy of around 30%.
+
+
 Authors:
 1. Tejas Gupta 
 2. Satyam Bhikadiya
